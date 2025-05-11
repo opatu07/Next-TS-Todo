@@ -1,4 +1,4 @@
-import { TodoEditTemplate } from "components/templates";
+import { TodoEditTemplate } from "@/components/templates";
 
 type TodoEditPageProps = {
     params: Promise<{ id: string }>;
